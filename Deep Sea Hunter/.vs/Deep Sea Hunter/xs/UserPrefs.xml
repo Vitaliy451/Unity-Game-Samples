@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0B32A034-B3F0-9327-A8E8-CF08B58E7A73}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Android/AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets/Scripts/mainPlugins.cs" Line="1" Column="1" />
+      <File FileName="Assets/OneSignal/Editor/PackageManagement/Manifest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f74473d-1254-40cf-930f-f2929a183fb3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{67FBC9D3-7604-2ECB-66A8-F7E1C481F2C2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Android/AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets/Scripts/LoadingScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppsFlyer PreferredExecutionTarget="b5dfe4c0-0d34-409c-ac0e-3521e159b800" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b5dfe4c0-0d34-409c-ac0e-3521e159b800" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

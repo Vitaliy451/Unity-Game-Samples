@@ -1,0 +1,125 @@
+{
+    "m_SelectedDeviceId": "LGH918eb5f48d7",
+    "m_SelectedPackage": {
+        "deviceId": "LGH918eb5f48d7",
+        "name": "com.Company.ProductName.vdomi",
+        "processId": 29476,
+        "exited": false
+    },
+    "m_SelectedPriority": 5,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "LGH918eb5f48d7",
+            "name": "com.lge.launcher3",
+            "processId": 3829,
+            "exited": false
+        },
+        {
+            "deviceId": "LGH918eb5f48d7",
+            "name": "com.Company.ProductName.vdomi",
+            "processId": 31133,
+            "exited": true
+        },
+        {
+            "deviceId": "LGH918eb5f48d7",
+            "name": "com.Company.ProductName.vdomi",
+            "processId": 7523,
+            "exited": true
+        },
+        {
+            "deviceId": "LGH918eb5f48d7",
+            "name": "com.android.vending",
+            "processId": 20068,
+            "exited": true
+        },
+        {
+            "deviceId": "LGH918eb5f48d7",
+            "name": "com.google.android.packageinstaller",
+            "processId": 8596,
+            "exited": true
+        },
+        {
+            "deviceId": "LGH918eb5f48d7",
+            "name": "com.Company.ProductName.vdomi",
+            "processId": 10113,
+            "exited": true
+        },
+        {
+            "deviceId": "LGH918eb5f48d7",
+            "name": "com.Company.ProductName.vdomi",
+            "processId": 29476,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.3.8:5555",
+            "name": "com.lge.launcher3",
+            "processId": 3829,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.3.8:5555",
+            "name": "com.example.webviewtest",
+            "processId": 2856,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.3.8:5555",
+            "name": "com.Company.ProductName.vdomi",
+            "processId": 3136,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E9424EF0-6836-0197-3866-803BA77CDD57}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MovingScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MovingScene.cs" Line="33" Column="8" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="9" Column="69" />
+      <File FileName="Assets/Scripts/GameControl.cs" Line="462" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppsFlyer PreferredExecutionTarget="6c9f0aea-a41f-49fb-af90-3d307275338c" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b6c7baa-b113-4328-a47e-67911ce8f738" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
